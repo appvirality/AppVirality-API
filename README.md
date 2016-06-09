@@ -8,20 +8,20 @@ NOTE: All dates provided in API calls are in UTC±00 Time zone.
 
 INDEX
 ----------------------
-1. [Get Referrer Rewards](https://github.com/appvirality/appvirality-sdk-android/wiki/AppVirality-API#1-get-referrer-rewards)
-2. [Get Friend Rewards](https://github.com/appvirality/appvirality-sdk-android/wiki/AppVirality-API#2-get-friend-rewards)
-3. [Redeem Referrer Rewards](https://github.com/appvirality/appvirality-sdk-android/wiki/AppVirality-API#3-redeem-referrer-rewards)
-4. [Change Reward Status] (https://github.com/appvirality/appvirality-sdk-android/wiki/AppVirality-API#4-change-reward-status)
-5. [Redeem Friend Rewards] (https://github.com/appvirality/appvirality-sdk-android/wiki/AppVirality-API#5-redeem-friend-rewards)
-6. [Get Referrer/Friend Balance] (https://github.com/appvirality/appvirality-sdk-android/wiki/AppVirality-API#6-get-referrerfriend-balance)
-7. [Register Conversion Event] (https://github.com/appvirality/appvirality-sdk-android/wiki/AppVirality-API#7-register-conversion-event)
-8. [Update User details] (https://github.com/appvirality/appvirality-sdk-android/wiki/AppVirality-API#8-update-user-details)
-9. [Approve Dynamic Coupon] (https://github.com/appvirality/appvirality-sdk-android/wiki/AppVirality-API#9-approve-dynamic-coupon)
-10. [Check Reward Status] (https://github.com/appvirality/appvirality-sdk-android/wiki/AppVirality-API#10-check-reward-status)
-11. [Get AppUser Details] (https://github.com/appvirality/appvirality-sdk-android/wiki/AppVirality-API#11-get-appuser-details)
-12. [Get Campaign] (https://github.com/appvirality/appvirality-sdk-android/wiki/AppVirality-API#12-get-campaign)
-13. [Add Test Device] (https://github.com/appvirality/appvirality-sdk-android/wiki/AppVirality-API#13-add-test-device)
-14. [Reset Test Device] (https://github.com/appvirality/appvirality-sdk-android/wiki/AppVirality-API#14-reset-test-device)
+1. [Get Referrer Rewards](https://github.com/appvirality/AppVirality-API#1-get-referrer-rewards)
+2. [Get Friend Rewards](https://github.com/appvirality/AppVirality-API#2-get-friend-rewards)
+3. [Redeem Referrer Rewards](https://github.com/appvirality/AppVirality-API#3-redeem-referrer-rewards)
+4. [Change Reward Status] (https://github.com/appvirality/AppVirality-API#4-change-reward-status)
+5. [Redeem Friend Rewards] (https://github.com/appvirality/AppVirality-API#5-redeem-friend-rewards)
+6. [Get Referrer/Friend Balance] (https://github.com/appvirality/AppVirality-API#6-get-referrerfriend-balance)
+7. [Register Conversion Event] (https://github.com/appvirality/AppVirality-API#7-register-conversion-event)
+8. [Update User details] (https://github.com/appvirality/AppVirality-API#8-update-user-details)
+9. [Approve Dynamic Coupon] (https://github.com/appvirality/AppVirality-API#9-approve-dynamic-coupon)
+10. [Check Reward Status] (https://github.com/appvirality/AppVirality-API#10-check-reward-status)
+11. [Get AppUser Details] (https://github.com/appvirality/AppVirality-API#11-get-appuser-details)
+12. [Get Campaign] (https://github.com/appvirality/AppVirality-API#12-get-campaign)
+13. [Add Test Device] (https://github.com/appvirality/AppVirality-API#13-add-test-device)
+14. [Reset Test Device] (https://github.com/appvirality/AppVirality-API#14-reset-test-device)
 
 
 1. Get Referrer Rewards
@@ -951,7 +951,7 @@ Content-Type application/json
 Please have a look at our [Wiki page](https://github.com/appvirality/appvirality-sdk-android/wiki)
 
 1. [Getting Started With AppVirality Android SDK Integration](https://github.com/appvirality/appvirality-sdk-android#integrating-appvirality-into-your-app)
-2. [AppVirality API for referral Growth Hack](https://github.com/appvirality/appvirality-sdk-android/wiki/AppVirality-API)
+2. [AppVirality API for referral Growth Hack](https://github.com/appvirality/AppVirality-API)
 3. [How to Add Test Devices & Test Referral Program](https://github.com/appvirality/appvirality-sdk-android/wiki/Testing-Your-Referral-Programs)
 4. [Using Custom Domain](https://github.com/appvirality/appvirality-sdk-android/wiki/Using-Custom-Domain)
 5. [Init Callback | hasReferrer | getUserKey](https://github.com/appvirality/appvirality-sdk-android/wiki/AppVirality-Init-Callback)
