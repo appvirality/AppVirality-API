@@ -2,7 +2,7 @@
 
 AppVirality provides API feature to pull the reward details and redeem the rewards. AppVirality shall take care of reward distribution in case if the reward type is coupons (provided coupon availability in AppVirality dashboard), other than coupon case (i.e In-store Credits or Other) App owner has to take care of reward distribution and in such cases AppVirality shall provide the reward details and available balance for each referrer/friend.
 
-AppVirality API is accessed via the https://api.appvirality.com domain.
+AppVirality API is accessed via the https://api.appvirality.com domain. 
 <br/><br/>
 NOTE: All dates provided in API calls are in UTC±00 Time zone.
 
