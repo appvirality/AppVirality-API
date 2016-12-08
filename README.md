@@ -675,7 +675,7 @@ Content-Type application/json
 
 * <b>success</b> —  Call Success Response (<b>true/false</b>)
 * <b>rewarddtlid</b> — Reward Detail ID
-* <b>reward_status</b> — Reward status can be <b>Approved/Rejected/Suspicious/UnderReview</b>.
+* <b>reward_status</b> — Reward status can be <b>Approved/Rejected/Suspicious/UnderReview/Rewarded</b>.
 * <b>comment</b> — Information regarding the status change if any.
 
 #####<b>Sample Response:</b>
