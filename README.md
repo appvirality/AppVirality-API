@@ -2,7 +2,8 @@
 
 **********************************************
 
-API V1.0 has been deprecated, Please use latest [API V2.0](http://dev.appvirality.com/docs/appvirality-docs/appvirality-api/)
+API V1.0 has been deprecated, Please use latest API V2.0 [http://dev.appvirality.com/docs/appvirality-docs/appvirality-api/](http://dev.appvirality.com/docs/appvirality-docs/appvirality-api/)
+
 
 **********************************************
 
